@@ -1,0 +1,2 @@
+# patika--devler
+tüm ödevler
